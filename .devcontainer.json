@@ -1,0 +1,11 @@
+{
+  "name": "My Project Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/universal:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.live-server"
+      ]
+    }
+  }
+}
